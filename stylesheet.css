@@ -1,0 +1,26 @@
+header>h1 {
+margin-left: 4em;
+width: 5em;
+margin-top: 0;
+}
+
+div#contactInfo {
+float: right;
+margin-right: 7em;
+margin-top: -4.5em;
+}
+#nav >li> a {
+text-decoration: none;
+padding: 5px;
+}
+#nav>li {
+list-style-type: none;
+display: inline-flex;
+
+}
+
+ul#nav {
+
+background-color: grey;
+
+}

@@ -8,11 +8,11 @@ and open the template in the editor.
     <?php
         include 'top.php';
         ?>
-    <body>
-        
-        <h1>This is WigWag</h1>
-        <?php
-        // put your code here
+    
+    <?php
+        include 'header.php';
         ?>
+    
+    <body>
     </body>
 </html>
