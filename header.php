@@ -2,7 +2,7 @@
 include 'top.php';
 ?>
 
-<h1>This is WigWag Im trying to test this!!!</h1> <!--logo would go here-->
+<h1>This</h1> <!--logo would go here-->
 
     <div id='contactInfo'>
         
